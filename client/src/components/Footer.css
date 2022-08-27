@@ -1,0 +1,43 @@
+.footer
+{
+    width: 100%;
+    text-align: center;
+    padding: 30px 0 ;
+    transition: 0.5s ease-in-out;
+    color: black;
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+
+    
+}
+.footer p
+{
+  
+    
+   width: 100%; 
+   text-align: center;
+}
+.footer:hover
+{
+    background:#b2e0df;
+     color: white;
+    border-radius: 300px 300px 0 0;
+}
+
+.footer h1
+{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    font-weight: 1000;
+}
+
+
+.icons{
+    margin-bottom: 15px;
+}
+.icons i:not(:last-child)
+{
+    margin-left: 5px;
+    
+}
